@@ -25,4 +25,5 @@
 #### Para a execução da tarefa o aluno deve consultar as referências bibliográficas especificadas no Plano de Curso. A seguir, encontram-se indicados alguns recursos e materiais de apoio para a execução da tarefa. Outras referências bibliográficas podem ser utilizadas, desde que devidamente citadas no produto.
 
 Slide: **[Ambiente de Desenvolvimento](https://drive.google.com/file/d/1WiPN0dLv5VGhsn5qRh29YZIvGlPUKmdC/view)**
+
 Video: **[IDE EclipseLinks](https://www.youtube.com/watch?v=YCEkvTXwMjw)**
